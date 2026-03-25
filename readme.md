@@ -1,4 +1,4 @@
-# Yield Curve Forecasting - Machine learning vs. traditional econometric models
+# Yield Curve Forecasting - Machine learning vs. Traditional Econometric Models
 
 ---
 
