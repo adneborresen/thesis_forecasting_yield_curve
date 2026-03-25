@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+
+# Environment Variables
+.envrc
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------------------------------------------
+# Data files: I don't ignore them for now
+# ---------------------------------------------------------------------------
+# *.csv
+# *.xlsx
+# *.xls
+# *.pkl
+# *.h5
+
+
+# ---------------------------------------------------------------------------
+# Machine Learning Weights & Logs
+# ---------------------------------------------------------------------------
+*.log
+*.pt
+*.pth
+*.ckpt
