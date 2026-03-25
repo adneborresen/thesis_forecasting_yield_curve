@@ -20,8 +20,8 @@ thesis_forecasting_yield_curve/
 │       └── norway/
 │
 ├── notebooks/
-│   ├── 00_build_data.ipynb            # Data ingestion & preprocessing pipeline
-│   ├── 01_data_exploration.ipynb      # Exploratory data analysis
+│   ├── 00_build_data.ipynb            # Data ingestion, preprocessing & raw data exploration
+│   ├── 01_data_visualization.ipynb    # Processed data visualisation & summary
 │   ├── 02_random_walk.ipynb           # Random walk benchmark model
 │   ├── 03_var_dns.ipynb               # VAR Dynamic Nelson-Siegel model
 │   ├── 04_var_macro_dns.ipynb         # VAR DNS with macroeconomic factors
